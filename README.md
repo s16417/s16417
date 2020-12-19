@@ -5,7 +5,7 @@
 
 I'm Janitha Nawarathna,
 
-- 🔭 I’m currently an undergraduate in B.Sc Computer Science.
+- 🔭 I’m currently an undergraduate B.Sc(hons) in Computer Science.
 - 🌱 I’m currently learning and focused on web developing and image processing.
 - 👯 I’m looking to collaborate on projects that use frameworks like React, Django, NodeJS etc.
 - 💬 Ask me about React, Python, Java, JavaScript and Django.
